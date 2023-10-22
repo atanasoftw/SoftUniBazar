@@ -1,0 +1,14 @@
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.deps.json
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.runtimeconfig.json
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.dll
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\bin\Debug\net6.0\SoftUniBazar.Data.pdb
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.AssemblyReference.cache
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfoInputs.cache
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.AssemblyInfo.cs
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.csproj.CoreCompileInputs.cache
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.dll
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\refint\SoftUniBazar.Data.dll
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.pdb
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\SoftUniBazar.Data.genruntimeconfig.cache
+C:\Users\mario.atanasov\Desktop\exam\SoftUniBazar\SoftUniBazar.Data\obj\Debug\net6.0\ref\SoftUniBazar.Data.dll
